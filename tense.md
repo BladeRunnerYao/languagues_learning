@@ -1,6 +1,7 @@
 Tense
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| words          | past tense    | past participle | present participle | third person |
+| -------------- | --------------| --------------  | -----------------  | ------------ |
+| lie 躺         | lay           |  lain /leɪn/    | lying              | lies         |
+| lie            | lied          |                 | lying              | lies         |
+| stand          | stood         |  stood          |                    |              |
